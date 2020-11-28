@@ -107,11 +107,91 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Welcome to 1530 Vallejo</h1>
+        {/* <h1 className={styles.title}>Welcome to 1530 Vallejo</h1>
 
-        <p className={styles.description}>Forever our home</p>
+        <p className={styles.description}>Forever our home</p> */}
+        <div>
+          <b>1530 Vallejo</b>
+          <br />
+          <br />
+          we found 1530 in 2018
+          <br />
+          newly renovated, clean and pristine
+          <br />
+          new to the city we moved in fast
+          <br />
+          starting a chapter and closing the past
+          <br />
+          <br />
+          <br />
+          walls bare but clean, we made it our home
+          <br />
+          bright lights and hardwood, marble and chrome
+          <br />
+          <br />
+          <br />
+          we infused it with warmness — couches and beds
+          <br />
+          rooms decked out with our personal spreads
+          <br />
+          <br />
+          <br />
+          but we realized, what was warmest of all
+          <br />
+          was the love and the friendship that spread through the halls
+          <br />
+          for appliances and decor don’t make a home
+          <br />
+          its the people
+          <br />
+          and friendships
+          <br />
+          that do.
+          <br />
+          <br />
+          <br />
+          with halloweens and bar crawls
+          <br />
+          and laughter reverberating through the halls
+          <br />
+          <br />
+          <br />
+          with housewarmings and ragin’
+          <br />
+          and loud yells of “CAGE HIM!!!!!!”
+          <br />
+          <br />
+          <br />
+          with movie nights and codenames
+          <br />
+          and panda and fiorella
+          <br />
+          and lemongrass and bobs donuts
+          <br />
+          and new spot and TLC
+          <br />
+          …
+          <br />
+          the list goes on and on and on
+          <br />
+          <br />
+          <br />
+          in 1530 we found a spot for two years
+          <br />
+          but more importantly we found a place
+          <br />
+          to rest our heads
+          <br />
+          to laugh so loudly it shook the walls
+          <br />
+          to be vulnerable and share our pain and fears
+          <br />
+          to drink and play and enjoy the present
+          <br />
+          in 1530 we found a home.
+        </div>
 
-        <BasicRows />
+        {/* <BasicRows /> */}
 
         {/* <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
@@ -144,9 +224,9 @@ export default function Home() {
         </div> */}
       </main>
 
-      <footer className={styles.footer}>
+      {/* <footer className={styles.footer}>
         Powered by <span className={styles.code}>Next.js</span>
-      </footer>
+      </footer> */}
     </div>
   );
 }
